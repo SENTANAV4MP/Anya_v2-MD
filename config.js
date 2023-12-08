@@ -8,17 +8,17 @@ global.zApiKey = {// if this API key get expired then please go to https://www.f
 }
 
 
-global.botname = process.env.BotName || "Queen Anya" 
-global.author = process.env.Author || "@PikaBotz" 
+global.botname = process.env.BotName || "OPIUMS ONLY" 
+global.author = process.env.Author || "@SENTANA" 
 global.packname = process.env.PackName || "Queen Anya v2 MD" 
 global.myweb = process.env.Web || "https://github.com/PikaBotz" 
 global.footer = process.env.Footer || "© Queen Anya Bot" 
 global.prefa = process.env.Prefix || ['-'] 
 global.themeemoji = process.env.ThemeEmoji || "🎐" 
-global.ownername = process.env.Owner_Name || "Pika~Kun" 
-global.ownernumber = process.env.Owner_Number || "916900904828" 
-global.adress = process.env.Continent || "Asia, India, Assam" 
-global.timezone = process.env.TimeZone || "Asia/Kolkata" 
+global.ownername = process.env.Owner_Name || "SENTANA #4 V4MP" 
+global.ownernumber = process.env.Owner_Number || "6666666666" 
+global.adress = process.env.Continent || "SUCK MY DICK STREET" 
+global.timezone = process.env.TimeZone || "UTC+02:00 HARARE,JOHHANESBURG" 
 global.instagramId = process.env.Insta || "8.08_only_mine" 
 global.email = process.env.Email_Id || "example@example.com" 
 
@@ -71,7 +71,7 @@ global.badWords = [
   "laund",
   "loda",
   "gulambi"];
-  
+  "BAKA",
 //--------------- Tip ----------------\\
 global.Tips = [
 `Type *$prefix info* for more information....`,
